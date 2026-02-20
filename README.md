@@ -11,12 +11,9 @@
 
 <!-- SUBTÍTULO -->
 <p align="center">
-  <a href="https://github.com/Azzi-Vitor/web-scraping-python">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1200&color=25F700&center=true&vCenter=true&width=800&lines=Data+Extraction+%7C+Automation+%7C+Web+Crawling" 
-      alt="Typing SVG"
-    />
-  </a>
+  <strong style="color: #25F700; font-family: Fira Code; font-size: 18px;">
+    Data Extraction | Automation | Web Crawling
+  </strong>
 </p>
 
 <!-- BADGES/SHIELDS -->
@@ -24,15 +21,12 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/BeautifulSoup-43B02A?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
 </p>
 
 <!-- DESCRIÇÃO -->
 <p align="center">
-  <b>Automated web data extraction</b> using Python — capturing, parsing and structuring<br>
-  web content into actionable datasets for analysis and insights.
+  A small project testing <b>web scraping with Python</b> for data extraction.
 </p>
 
 ---
@@ -40,53 +34,30 @@
 ## 🚀 Project Overview
 
 <p align="center">
-  A practical <b>Web Scraping</b> solution that navigates websites, extracts structured data<br>
-  and transforms raw HTML into clean, analysis-ready datasets.
+  Testing automated web data extraction using Python libraries<br>
+  to capture and parse content from websites.
 </p>
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  🔹 <b>Python</b> — Core scripting & automation<br>
-  🔹 <b>BeautifulSoup</b> — HTML parsing & data extraction<br>
-  🔹 <b>Requests</b> — HTTP requests & web page retrieval<br>
-  🔹 <b>Selenium</b> — Dynamic content & browser automation<br>
-  🔹 <b>Pandas</b> — Data structuring & CSV export
+  🔹 <b>Python</b> — Core scripting<br>
+  🔹 <b>BeautifulSoup</b> — HTML parsing<br>
+  🔹 <b>Requests</b> — HTTP requests
 </p>
 
 ## 🎯 Key Features
 
 <p align="center">
-  ✔️ <b>Automated Data Extraction</b> — Scrapes web content programmatically<br>
-  ✔️ <b>HTML Parsing</b> — Navigates DOM structure to locate target data<br>
-  ✔️ <b>Dynamic Content Handling</b> — JavaScript-rendered page support<br>
-  ✔️ <b>Data Cleaning</b> — Transforms raw scraped data into structured format<br>
-  ✔️ <b>Export to CSV</b> — Saves extracted data for further analysis
-</p>
-
-## 📊 Scraping Capabilities
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Methods-Web%20Scraping-blue?style=for-the-badge&logo=python" /><br><br>
-  • <b>Static Scraping</b> — BeautifulSoup + Requests for HTML parsing<br>
-  • <b>Dynamic Scraping</b> — Selenium for JavaScript-heavy websites<br>
-  • <b>Data Structuring</b> — Organizing scraped content into DataFrames<br>
-  • <b>Error Handling</b> — Robust exception management & retries
+  ✔️ <b>Web Scraping</b> — Automated data extraction from websites<br>
+  ✔️ <b>HTML Parsing</b> — Navigating and extracting data from HTML structure<br>
+  ✔️ <b>Data Export</b> — Saving extracted data for analysis
 </p>
 
 ## 🔍 Workflow
 
 <p align="center">
-  <b>Target URL</b> → <b>HTTP Request</b> → <b>HTML Parsing</b> → <b>Data Extraction</b> → <b>Cleaning & Structuring</b> → <b>CSV Export</b>
-</p>
-
-## 💡 Use Cases
-
-<p align="center">
-  <b>Price Monitoring</b> — Track product prices across e-commerce platforms<br>
-  <b>Data Aggregation</b> — Collect information from multiple sources<br>
-  <b>Market Research</b> — Gather competitive intelligence automatically<br>
-  <b>Content Extraction</b> — Archive articles, reviews or listings
+  <b>Target URL</b> → <b>HTTP Request</b> → <b>HTML Parsing</b> → <b>Data Extraction</b> → <b>Export</b>
 </p>
 
 ---
@@ -96,14 +67,12 @@
 
 <p align="center">
   <img width="48" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img width="48" title="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
-  <img width="48" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
   <img width="48" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img width="48" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 </p>
 
 <p align="center">
-  <em>Web Scraping • Data Extraction • HTML Parsing • Browser Automation • Data Processing</em>
+  <em>Web Scraping • Data Extraction • HTML Parsing • Python Automation</em>
 </p>
 
 ---
